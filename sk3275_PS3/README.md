@@ -1,4 +1,4 @@
-###Siddharth Sheshadri Krishnan - sk3275
+### Siddharth Sheshadri Krishnan - sk3275
 ### CHEME 7770 - Problem Set 3
 
 ### Simulation model FBA for urea cycle in human cells.
