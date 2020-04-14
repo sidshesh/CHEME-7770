@@ -9,6 +9,8 @@ The model equations are implemented in the [Julia](https://www.julialang.org) pr
 
 Required packaged are described in the ``Include.jl`` file.
 
+Code developed with help from Anirudh Murali Narayanan am3246
+
 #### Model results
 1. The Stoichiometric Matrix is the uploaded excel file.
 2. The uploaded screenshot shows the elemental balance.
